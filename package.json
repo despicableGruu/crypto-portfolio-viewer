@@ -6,11 +6,11 @@
   "files": [
     "dist/crypto-portfolio-viwer.bundle.js"
   ],
-  "author": "Shunji Zhan <shunhahaha@live.com>",
-  "repository": "git@github.com/shunjizhan/crypto-portfolio-viwer.git",
-  "homepage": "https://github.com/shunjizhan/crypto-portfolio-viwer",
+  "author": "Shunji Zhan <brandon.richardson4328@outlook.com>",
+  "repository": "brandon.richardson4328@outlook.com/despicableGruu/crypto-portfolio-viwer.git",
+  "homepage": "https://github.com/despicableGruu/crypto-portfolio-viwer",
   "bugs": {
-    "url": "https://github.com/shunjizhan/crypto-portfolio-viwer/issues"
+    "url": "https://github.com/despicableGruu/crypto-portfolio-viwer/issues"
   },
   "license": "MIT",
   "private": false,
